@@ -26,7 +26,7 @@ public/         # Public assets
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/danssou/sushi.git
+   git clone https://github.com/danssou/sushi
    ```
 2. **Open `index.html` in your browser.**
 
